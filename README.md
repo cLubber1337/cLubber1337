@@ -6,17 +6,16 @@ Front-end web разработчик
 
 Веб-разработка и программирование на JavaScript и TypeScript - моя страсть и профессия более года. Я создаю SPA-приложения с React + Redux и адаптивной версткой. Я пишу качественный и чистый код. Я не останавливаюсь на достигнутом и постоянно развиваю свои навыки, решая алгоритмические задачи на codewars. Сейчас я изучаю Next.js и улучшаю свой английский. Я ищу работу в интересном и динамичном проекте.
 
-* 🌍  Я живу в Минске, Беларусь
+* 🌍  Живу в Минске, Беларусь
 * 🖥️  [Мое портфолио](http://cLubber1337.github.io/my-portfolio)
-* ✉️  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-AndreySoroko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AndreySoroko) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:supersoroko@gmail.com)[![Telegram Badge]( https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/andrey-soroko) 
 * 🚀  В настоящее время я работаю над [Arctical Hub](http://github.com/cLubber1337/arctical-hub-project)
 * 🧠  Сейчас я изучаю Next.js
 * 🤝  Я открыт для сотрудничества в интересных проектах
 * ⚡  Нацелен на результат !
 
+---
 
-### Языки и инструменты:
-
+### 📚 Языки и инструменты:
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>&nbsp;&nbsp;&nbsp;
@@ -32,8 +31,23 @@ Front-end web разработчик
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+---
 
-### GitHub статистика:
+### 🤙 Связаться со мной:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=ec4899)](https://t.me/AndreySoroko)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=ec4899)](https://www.linkedin.com/in/andrey-soroko)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=ec4899)](https://vk.com/id29430604)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=ec4899)](mailto:supersoroko@gmail.com)
+
+---
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/cLubber1337/badges/large)
+
+---
+
+### ⚙️ GitHub статистика:
 
 <a href="http://www.github.com/cLubber1337"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cLubber1337&stroke=ffffff&background=1e3a8a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
